@@ -1,7 +1,9 @@
-package com.kentsantin.socialcircle;
+package com.kentsantin.socialcircle.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.kentsantin.socialcircle.R;
 
 public class MainActivity extends AppCompatActivity {
 
